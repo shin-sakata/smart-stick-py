@@ -58,6 +58,8 @@ python src/response_curve.py
 
 This will display a graphical representation of the current response curve, allowing you to see how the input values are mapped to the output.
 
+<img src="./Figure_1.png" width="500px">
+
 ## Contributing
 
 Contributions to Smart Stick Py are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
