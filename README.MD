@@ -6,34 +6,49 @@ Smart Stick Py is an application that allows you to decode DualShock4 input at a
 
 - Windows OS
 - Python 3.11
+- ViGEm (Virtual Gamepad Emulation Framework)
+
+## Recommended Additional Library
+
+- HidHide (Hides input devices from applications)
 
 ## Installation
 
-1. Clone the repository:
+1. Install ViGEm:
+
+   - Download the latest version of ViGEm from the [official website](https://vigem.org/).
+   - Run the installer and follow the installation instructions.
+
+2. (Optional) Install HidHide:
+
+   - Download the latest version of HidHide from the [official GitHub repository](https://github.com/ViGEm/HidHide/releases).
+   - Run the installer and follow the installation instructions.
+
+3. Clone the repository:
 
    ```
    git clone https://github.com/your-username/smart-stick-py.git
    ```
 
-2. Create a virtual environment:
+4. Create a virtual environment:
 
    ```
    python -m venv .venv
    ```
 
-3. Activate the virtual environment:
+5. Activate the virtual environment:
 
    ```
    .venv\Scripts\activate
    ```
 
-4. Install the required dependencies:
+6. Install the required dependencies:
 
    ```
    pip install -r requirements.txt
    ```
 
-5. Run the application:
+7. Run the application:
    ```
    python src/main.py
    ```
