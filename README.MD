@@ -16,7 +16,7 @@ Smart Stick Py is an application that allows you to decode DualShock4 input at a
 
 1. Install ViGEm:
 
-   - Download the latest version of ViGEm from the [official website](https://vigem.org/).
+   - Download the latest version of ViGEm from the [official website](https://vigembusdriver.com/).
    - Run the installer and follow the installation instructions.
 
 2. (Optional) Install HidHide:
